@@ -1,0 +1,242 @@
+fileFormatVersion: 1
+guid: 204996af1d5a9e64492f9f91bb0581dc
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 1
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 1
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    pCube569:
+    - 100000
+    - 400000
+    transform287:
+    - 100002
+    - 400002
+    pCube592:
+    - 100004
+    - 400004
+    transform294:
+    - 100006
+    - 400006
+    pCube573:
+    - 100008
+    - 400008
+    pCube588:
+    - 100010
+    - 400010
+    pCube587:
+    - 100012
+    - 400012
+    pCube586:
+    - 100014
+    - 400014
+    Curve15:
+    - 100016
+    - 400016
+    transform296:
+    - 100018
+    - 400018
+    transform312:
+    - 100020
+    - 400020
+    pCube563:
+    - 100022
+    - 400022
+    transform314:
+    - 100024
+    - 400024
+    //RootNode:
+    - 100026
+    - 400026
+    - 11100000
+    pCube576:
+    - 100028
+    - 400028
+    pCube562:
+    - 100030
+    - 400030
+    pCube572:
+    - 100032
+    - 400032
+    transform301:
+    - 100034
+    - 400034
+    pCube593:
+    - 100036
+    - 400036
+    pCube568:
+    - 100038
+    - 400038
+    pCube585:
+    - 100040
+    - 400040
+    pCube575:
+    - 100042
+    - 400042
+    transform291:
+    - 100044
+    - 400044
+    transform297:
+    - 100046
+    - 400046
+    transform319:
+    - 100048
+    - 400048
+    transform311:
+    - 100050
+    - 400050
+    transform309:
+    - 100052
+    - 400052
+    pCube581:
+    - 100054
+    - 400054
+    transform290:
+    - 100056
+    - 400056
+    pCube564:
+    - 100058
+    - 400058
+    pCube565:
+    - 100060
+    - 400060
+    transform305:
+    - 100062
+    - 400062
+    transform303:
+    - 100064
+    - 400064
+    pCube591:
+    - 100066
+    - 400066
+    pCube571:
+    - 100068
+    - 400068
+    transform304:
+    - 100070
+    - 400070
+    transform292:
+    - 100072
+    - 400072
+    polySurface482:
+    - 100074
+    - 400074
+    - 3300000
+    - 2300000
+    - 6400000
+    pCube578:
+    - 100076
+    - 400076
+    pCube579:
+    - 100078
+    - 400078
+    transform288:
+    - 100080
+    - 400080
+    transform286:
+    - 100082
+    - 400082
+    transform302:
+    - 100084
+    - 400084
+    transform299:
+    - 100086
+    - 400086
+    transform295:
+    - 100088
+    - 400088
+    transform318:
+    - 100090
+    - 400090
+    transform316:
+    - 100092
+    - 400092
+    transform308:
+    - 100094
+    - 400094
+    pCube559:
+    - 100096
+    - 400096
+    transform289:
+    - 100098
+    - 400098
+    transform307:
+    - 100100
+    - 400100
+    pCube560:
+    - 100102
+    - 400102
+    transform317:
+    - 100104
+    - 400104
+    pCube589:
+    - 100106
+    - 400106
+    pCube577:
+    - 100108
+    - 400108
+    transform298:
+    - 100110
+    - 400110
+    pCube594:
+    - 100112
+    - 400112
+    pCube580:
+    - 100114
+    - 400114
+    pCube574:
+    - 100116
+    - 400116
+    pCube590:
+    - 100118
+    - 400118
+    pCube570:
+    - 100120
+    - 400120
+    pCube567:
+    - 100122
+    - 400122
+    transform310:
+    - 100124
+    - 400124
+    transform306:
+    - 100126
+    - 400126
+    pCube566:
+    - 100128
+    - 400128
+    transform313:
+    - 100130
+    - 400130
+    transform315:
+    - 100132
+    - 400132
+    transform300:
+    - 100134
+    - 400134
+    pCube561:
+    - 100136
+    - 400136
+    transform293:
+    - 100138
+    - 400138
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface482

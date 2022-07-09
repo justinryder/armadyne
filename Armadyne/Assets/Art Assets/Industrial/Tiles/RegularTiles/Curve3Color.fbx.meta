@@ -1,0 +1,104 @@
+fileFormatVersion: 1
+guid: 2d3d8bc986c83f0479f325b293a59f28
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 1
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 1
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    pCube597:
+    - 100000
+    - 400000
+    transform323:
+    - 100002
+    - 400002
+    transform321:
+    - 100004
+    - 400004
+    pCube602:
+    - 100006
+    - 400006
+    transform322:
+    - 100008
+    - 400008
+    transform326:
+    - 100010
+    - 400010
+    pCube601:
+    - 100012
+    - 400012
+    pCube595:
+    - 100014
+    - 400014
+    transform320:
+    - 100016
+    - 400016
+    pCube604:
+    - 100018
+    - 400018
+    pCube598:
+    - 100020
+    - 400020
+    Curve16:
+    - 100022
+    - 400022
+    transform330:
+    - 100024
+    - 400024
+    transform329:
+    - 100026
+    - 400026
+    transform328:
+    - 100028
+    - 400028
+    transform324:
+    - 100030
+    - 400030
+    transform325:
+    - 100032
+    - 400032
+    pCube600:
+    - 100034
+    - 400034
+    //RootNode:
+    - 100036
+    - 400036
+    - 11100000
+    pCube599:
+    - 100038
+    - 400038
+    pCube603:
+    - 100040
+    - 400040
+    polySurface486:
+    - 100042
+    - 400042
+    - 3300000
+    - 2300000
+    - 6400000
+    pCube596:
+    - 100044
+    - 400044
+    transform327:
+    - 100046
+    - 400046
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface486
